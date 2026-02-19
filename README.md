@@ -86,4 +86,4 @@ google-sheets-review-analyzer/
 **Dan** — Prompt Engineer, AI Samurai
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dan--The--Creator-181717?style=flat&logo=github)](https://github.com/Dan-The-Creator)
-[![Telegram](https://img.shields.io/badge/Telegram-@danniis-26A5E4?style=flat&logo=telegram)](https://t.me/danniis)
+[![Telegram](https://img.shields.io/badge/Telegram-@dannisi-26A5E4?style=flat&logo=telegram)](https://t.me/dannisi)
